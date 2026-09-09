@@ -1,3 +1,12 @@
+**Source de vérité** : https://git.gregoiremureau.com/grgmro/oc-p11-bigdata-fruits
+
+```bash
+git clone https://git.gregoiremureau.com/grgmro/oc-p11-bigdata-fruits.git
+git clone https://git.gregoiremureau.com/grgmro/oc-p11-bigdata-fruits.git
+```
+
+Dataset : voir `fetch-data.sh` (hors git si volumineux).
+
 # Projet de Traitement Big Data sur le Cloud - Fruits!
 
 ## 📋 Contexte du projet
