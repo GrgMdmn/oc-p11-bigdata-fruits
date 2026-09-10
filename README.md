@@ -1,15 +1,14 @@
+# Big Data Cloud Processing Project - Fruits!
+
+📘 Ce projet est également disponible en [français 🇫🇷](./README.fr.md)
+
 **Source of truth** : https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits
 
 ```bash
 git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits.git
-git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits.git
 ```
 
 Dataset: see `fetch-data.sh` (excluded from git if large).
-
-# Big Data Cloud Processing Project - Fruits!
-
-📘 Ce projet est également disponible en [français 🇫🇷](./README.fr.md)
 
 ## 📋 Project Context
 

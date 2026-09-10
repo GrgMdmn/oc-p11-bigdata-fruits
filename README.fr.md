@@ -1,15 +1,14 @@
+# Projet de Traitement Big Data sur le Cloud - Fruits!
+
+📘 This project is also available in [English 🇬🇧](./README.md)
+
 **Source de vérité** : https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits
 
 ```bash
 git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits.git
-git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p11-bigdata-fruits.git
 ```
 
 Dataset : voir `fetch-data.sh` (hors git si volumineux).
-
-# Projet de Traitement Big Data sur le Cloud - Fruits!
-
-📘 This project is also available in [English 🇬🇧](./README.md)
 
 ## 📋 Contexte du projet
 
