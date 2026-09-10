@@ -9,7 +9,7 @@ Dataset : voir `fetch-data.sh` (hors git si volumineux).
 
 # Projet de Traitement Big Data sur le Cloud - Fruits!
 
-📘 Ce projet est également disponible en [anglais 🇬🇧](./README.md)
+📘 This project is also available in [English 🇬🇧](./README.md)
 
 ## 📋 Contexte du projet
 
